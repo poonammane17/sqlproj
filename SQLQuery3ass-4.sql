@@ -1,0 +1,1 @@
+Select * from OrderItem inner join Product On OrderItem.Id=Product.ID where ProductName='Chai';

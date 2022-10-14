@@ -1,0 +1,1 @@
+Select ProductName,unitPrice from Product where UnitPrice in(Select max(unitPrice)from Product)or unitPrice in(select min(UnitPrice)from Product);

@@ -1,0 +1,1 @@
+Select * from Orders inner join customer on Orders.CustomerID=Customer.CustomerID where not Country='Landon';

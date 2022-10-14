@@ -1,0 +1,1 @@
+Select avg(Quentity)from OrderItem;

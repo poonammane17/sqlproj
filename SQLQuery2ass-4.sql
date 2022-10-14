@@ -1,0 +1,1 @@
+Select *from Customer where FirstName like'_u%';

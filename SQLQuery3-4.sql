@@ -1,0 +1,1 @@
+Select * from Orders,Product Where Product.ProductName='Chai'; 

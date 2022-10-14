@@ -1,0 +1,1 @@
+select * from Orders inner join customer on Orders.CustomerID=CustomerID where Phone='030-0074321';

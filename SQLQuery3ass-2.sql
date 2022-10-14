@@ -1,0 +1,1 @@
+Select * Product where ProductName='seafood';

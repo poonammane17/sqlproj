@@ -1,0 +1,1 @@
+Select ID  from Customer where FirstName like '%ra%';
