@@ -1,0 +1,1 @@
+Select * from Employe where joininng date between '2020-04-06' and '2022-10-10';
